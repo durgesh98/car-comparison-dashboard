@@ -1,0 +1,17 @@
+[
+  { "id": 1, "brand": "Toyota", "model": "Camry", "type": "Sedan", "price": 2400000, "weight": 1500, "rating": 4.5, "image": "https://cdn.pixabay.com/photo/2016/12/27/15/47/toyota-1937259_960_720.jpg" },
+  { "id": 2, "brand": "Honda", "model": "Civic", "type": "Sedan", "price": 2200000, "weight": 1400, "rating": 4.2, "image": "https://cdn.pixabay.com/photo/2020/03/01/20/33/honda-4895336_960_720.jpg" },
+  { "id": 3, "brand": "Hyundai", "model": "Elantra", "type": "Sedan", "price": 2100000, "weight": 1450, "rating": 4.1, "image": "https://cdn.pixabay.com/photo/2021/01/21/18/12/car-5938644_960_720.jpg" },
+  { "id": 4, "brand": "Skoda", "model": "Octavia", "type": "Sedan", "price": 2600000, "weight": 1520, "rating": 4.3, "image": "https://cdn.pixabay.com/photo/2017/03/06/17/49/skoda-2121347_960_720.jpg" },
+  { "id": 5, "brand": "Kia", "model": "Seltos", "type": "SUV", "price": 1500000, "weight": 1300, "rating": 4.0, "image": "https://cdn.motor1.com/images/mgl/03MXX/s1/kia-seltos-front.jpg" },
+  { "id": 6, "brand": "Volkswagen", "model": "Virtus", "type": "Sedan", "price": 1800000, "weight": 1350, "rating": 4.1, "image": "https://cdn.motor1.com/images/mgl/YV4AZ/s1/2023-volkswagen-virtus-front.jpg" },
+  { "id": 7, "brand": "Nissan", "model": "Magnite", "type": "SUV", "price": 1200000, "weight": 1250, "rating": 3.9, "image": "https://cdni.autocarindia.com/ExtraImages/20201214112643_Nissan-Magnite-front.jpg" },
+  { "id": 8, "brand": "Renault", "model": "Kiger", "type": "SUV", "price": 1300000, "weight": 1275, "rating": 4.0, "image": "https://static.autox.com/uploads/2021/01/Renault-Kiger.jpg" },
+  { "id": 9, "brand": "Maruti", "model": "Baleno", "type": "Hatchback", "price": 900000, "weight": 1100, "rating": 4.2, "image": "https://cdn.pixabay.com/photo/2022/03/27/10/38/car-7094762_960_720.jpg" },
+  { "id": 10, "brand": "Tata", "model": "Altroz", "type": "Hatchback", "price": 950000, "weight": 1150, "rating": 4.1, "image": "https://images.moneycontrol.com/static-mcnews/2020/01/Tata-Altroz-6.jpg" },
+  { "id": 11, "brand": "Ford", "model": "EcoSport", "type": "SUV", "price": 1100000, "weight": 1300, "rating": 4.0, "image": "https://imgd.aeplcdn.com/370x208/cw/ec/25641/Ford-EcoSport-Exterior-82857.jpg" },
+  { "id": 12, "brand": "MG", "model": "Hector", "type": "SUV", "price": 1800000, "weight": 1600, "rating": 4.3, "image": "https://www.financialexpress.com/wp-content/uploads/2020/07/MG-Hector-Plus.jpg" },
+  { "id": 13, "brand": "Mahindra", "model": "XUV300", "type": "SUV", "price": 1300000, "weight": 1450, "rating": 4.2, "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/39049/xuv300-exterior-right-front-three-quarter.jpeg" },
+  { "id": 14, "brand": "Maruti", "model": "Swift", "type": "Hatchback", "price": 800000, "weight": 1000, "rating": 4.1, "image": "https://images.hindustantimes.com/auto/img/2023/02/27/1600x900/2021-Maruti-Swift-front_1677496439515_1677496449725_1677496449725.jpg" },
+  { "id": 15, "brand": "Tata", "model": "Punch", "type": "Hatchback", "price": 850000, "weight": 1050, "rating": 4.0, "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/44677/tata-punch-right-front-three-quarter3.jpeg" }
+]
